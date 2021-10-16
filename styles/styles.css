@@ -13,3 +13,10 @@ body{
     background-color:aqua;
 }
 
+p{
+    color:red;
+}
+
+span{
+    background-color:blue;
+}
